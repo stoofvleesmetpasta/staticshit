@@ -1,0 +1,11 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+}
+h1, h2, h3, h4{
+    margin-left: 1rem;
+    font-size: medium;
+}
+p{
+    margin-left: 3rem;
+}
