@@ -88,5 +88,3 @@ for i in os.scandir("pages"):
     templatetype = "page"
     filename = i.name[:-3]
     addfiletosite(filepath, templatetype, uploadpath, filename)
-
-
